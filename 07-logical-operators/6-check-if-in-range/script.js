@@ -8,5 +8,5 @@ let age = prompt("Entrez un age");
 if (age > 14 && age < 90) {
       alert("Entre 14 et 90")
 } else {
-      alert(" - 14 ou + que 90")
+      alert("- que 14 ou + que 90")
 }
