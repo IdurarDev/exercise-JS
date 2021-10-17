@@ -45,7 +45,7 @@ alert(pomme || poire || banane || "pas bon.");
 
 ### Faut il:
  #### utiliser ?? avec tous les autres opérateurs ?
- #### ne jamais utiliser ??? avec tous les autres opérateurs ?
+ #### ne jamais utiliser ?? avec tous les autres opérateurs ?
  #### quelques fois utiliser ?? avec les autres opérateurs ?
 
 ### Que retournent les opérations suivantes (se référer au opérateurs logiques) ?
